@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: micromouse.jpg
+image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
