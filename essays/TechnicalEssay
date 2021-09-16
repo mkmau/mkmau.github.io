@@ -1,12 +1,27 @@
----
-layout: essays
----
-type: essays
-title: Technical Essay
-date: 2021-09-15
-labels:
-  - MIS
-  - Learning
+<!-- Used by theme-essays-builtin-1 -->
+
+<div class="card">
+  <div class="content">
+    <span class="header">{{ include.page.title }}</span>
+    <div class="meta">
+      <span class="date">{{ include.page.date | date_to_string }}</span>
+    </div>
+
+    <div class="description">
+      {{ include.page.content | markdownify | strip_html | truncatewords: 40 }}
+    </div>
+  </div>
+
+  <div class="extra content">
+    <div class="ui mini labels">
+      {% for label in include.page.labels %}
+        <div class="ui basic label">{{ label }}</div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <a class="ui bottom attached button" href="{{ site.baseurl}}{{ include.page.url }}">Read More</a>
+</div>
 ---
 Trying the first WOD was a struggle (as were the rest). I was really struggling but figured it would be better to try and complete it and see where the holes were in my understanding, rather than just immediately watch the video. I do think that it would’ve been helpful to watch the video first, but I also think that for me, I learn by doing and by forming questions and really understanding and identifying what I don’t know. If I know I have no idea how to do something, then yes I’ll look at a solution. But for the first WOD I really wanted to try and tough it out. My first attempt went horribly. Although I wasn’t perfect after watching the solution, it showed me how to get to certain places that I couldn’t have known otherwise. Up until the first few steps, we had done similar things in class so I kind of knew what to do. However, I think on step five I wasn’t sure how to create a link and would not have figured it out without watching the solution. I didn’t know the tags and code necessary to format a link, and then to attach that link and make it work in the document was a whole other issue. My first try took about 22 minutes and I didn’t end up finishing. My next try took about the same time but this time I at least got through and could then try harder and harder to reduce my time. I didn’t want it to be just rote memory because that won’t help me. But I think at this stage, I have a good enough understanding of what’s happening to walk through the steps without just memorizing them. 
 I personally like the way I did the WOD’s. First struggling, then forming questions, then watching the solution, then practicing with different code, and then executing. I know it helps me learn by struggling first and forming my questions, then moving on to watching the screencast, and I think in later WOD’s I will try and practice the code first with different steps just to make sure I know how it works. Kind of like doing drills then doing a practice game. I knew I wasn’t going to figure out the tags to form a link, and I wasn’t going to figure out how to format each link to go to a webpage outside of the localhost (a big issue was figuring out how to make web pages go to the site I wanted). So after I was done I looked at the screencast and just punched in an alternate site just to see how it worked and that I knew the necessary tags to make a link, which really helped my understanding. I know I’ll have to do a refresher but I’m happy with the outcome. 
