@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: 
+image: micromouse.jpg
 title: Professional Bio
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-28
