@@ -6,7 +6,7 @@ title: Professional Bio
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-28
 labels:
-  - Bio
+  - essay
 ---
 <img class="ui medium floated rounded image" src="../images/micromouse.jpg" width="200">
 
