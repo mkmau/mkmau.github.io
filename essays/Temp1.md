@@ -8,7 +8,7 @@ date: 2021-08-28
 labels:
   - Bio
 ---
-<img class="ui medium floated rounded image" src="../images/Marcus.JPG (2).jpg" width="200">
+<img class="ui medium floated rounded image" src="../images/micromouse.jpg" width="200">
 
 
 Rick Kazman is a Professor at the University of Hawaii and a Visiting Researcher at the Software Engineering Institute of Carnegie Mellon University.  His primary research 
