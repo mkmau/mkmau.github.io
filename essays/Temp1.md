@@ -8,6 +8,8 @@ date: 2021-08-28
 labels:
   - Bio
 ---
+<img class="ui medium floated rounded image" src="../images/Marcus.JPG (2).jpg" width="200">
+
 
 Rick Kazman is a Professor at the University of Hawaii and a Visiting Researcher at the Software Engineering Institute of Carnegie Mellon University.  His primary research 
 interests are software architecture, design and analysis tools, software visualization, and software engineering economics. Kazman has been involved in the creation of 
