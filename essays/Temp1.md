@@ -22,3 +22,4 @@ Systems: The Software Challenge of the Future.   His research has been cited ove
 Kazman received a B.A. (English/Music) and M.Math (Computer Science) from the University of Waterloo, an M.A. (English) from York University, and a Ph.D. (Computational 
 Linguistics) from Carnegie Mellon University.   How he ever became a software engineering researcher is anybody’s guess.  When not architecting or writing about architecture, 
 Kazman may be found cycling, singing acapella music, playing the piano, practicing Tae Kwon Do, or (more often) flying back and forth between Hawaii and Pittsburgh. 
+ d
