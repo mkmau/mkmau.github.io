@@ -1,1 +1,12 @@
+---
+layout: essay
+type: essay
+image: images/micromouse.jpg
+title: Test Essay
+# All dates must be YYYY-MM-DD format!
+date: 2021-11-28
+labels:
+  - essay
+---
+
 Testing that this works
