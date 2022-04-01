@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-image: images/micromouse.jpg
+image: images/success.png
 title: Assignment 3 Reflection
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-31
 labels:
   - essay
 ---
-<img class="ui medium floated rounded image" src="../images/micromouse.jpg" width="200">
+<img class="ui medium floated rounded image" src="../images/success.png" width="200">
 
 Briefly describe your system (e.g. A store selling Pokemon game cards)
 I decided to do an e-commerce store that sold CD’s from various decades (the 70’s, 80’s, 90’s, and 2000’s, with four CD’s from each decade).
